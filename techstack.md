@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 terasa/laravel is built on the following main stack:
+
 - [PHP](http://www.php.net/) – Languages
 - [Laravel](http://laravel.com/) – Frameworks (Full Stack)
 - [jQuery](http://jquery.com/) – Javascript UI Libraries
@@ -14,11 +15,13 @@ terasa/laravel is built on the following main stack:
 - [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 terasa/laravel is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg' alt='PHP'/> [PHP](http://www.php.net/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/992/AcA2LnWL_400x400.jpg' alt='Laravel'/> [Laravel](http://laravel.com/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
@@ -31,14 +34,15 @@ terasa/laravel is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [terasa/laravel](https://github.com/terasa/laravel)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|16<br/>Tools used|11/09/23 <br/>Report generated|
+|17<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -167,17 +171,18 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (3)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (4)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (3)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (4)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[bootstrap-sass](https://www.npmjs.com/bootstrap-sass)|v3.3.7|05/26/17|louis de smet |MIT|[CVE-2019-8331](https://github.com/advisories/GHSA-9v3m-8fp8-mj99) (Moderate)<br/>[CVE-2019-8331](https://github.com/advisories/GHSA-wh77-3x4m-4q9g) (Moderate)|
 |[cross-env](https://www.npmjs.com/cross-env)|v3.2.3|05/26/17|louis de smet |MIT|N/A|
+|[laravel-mix](https://www.npmjs.com/laravel-mix)|N/A|05/26/17|louis de smet |MIT|N/A|
 |[vue](https://www.npmjs.com/vue)|v2.1.10|05/26/17|louis de smet |MIT|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
