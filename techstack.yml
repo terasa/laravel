@@ -1,0 +1,241 @@
+repo_name: terasa/laravel
+report_id: aa9c1b5ade5f712daba894a34697111d
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T18:03:33+00:00'
+requested_by: terasa
+provider: github
+branch: master
+detected_tools_count: 17
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/terasa/laravel/blob/master/public/js/app.js
+  detection_source: public/js/app.js
+  last_updated_by: louis de smet
+  last_updated_on: 2017-05-26 11:36:14.000000000 Z
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/terasa/laravel
+  detection_source: Repo Metadata
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/terasa/laravel/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: louis de smet
+  last_updated_on: 2017-05-26 11:38:03.000000000 Z
+- name: Laravel
+  description: A PHP Framework For Web Artisans
+  website_url: http://laravel.com/
+  version: 5.4.23
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/992/AcA2LnWL_400x400.jpg
+  detection_source_url: https://github.com/terasa/laravel/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: louis de smet
+  last_updated_on: 2017-05-26 11:38:03.000000000 Z
+- name: Vue.js
+  description: A progressive framework for building user interfaces
+  website_url: http://vuejs.org/
+  version: 2.1.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3837/paeckCWC.png
+  detection_source_url: https://github.com/terasa/laravel/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: louis de smet
+  last_updated_on: 2017-05-26 11:38:03.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 3.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/terasa/laravel/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: louis de smet
+  last_updated_on: 2017-05-26 11:38:03.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/terasa/laravel
+  detection_source: Repo Metadata
+- name: PHPUnit
+  description: Testing framework for PHP
+  website_url: https://phpunit.de/
+  version: 5.7.19
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/1616/1_WsEnddd5Y4EgEHsT054kUQ.jpeg
+  detection_source_url: https://github.com/terasa/laravel/blob/master/composer.lock
+  detection_source: composer.json
+  last_updated_by: louis de smet
+  last_updated_on: 2017-05-26 11:38:03.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/terasa/laravel/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: louis de smet
+  last_updated_on: 2017-05-26 11:38:03.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.4
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/terasa/laravel/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: louis de smet
+  last_updated_on: 2017-05-26 11:38:03.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/terasa/laravel
+  detection_source: Repo Metadata
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 0.15.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/terasa/laravel/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: louis de smet
+  last_updated_on: 2017-05-26 11:38:03.000000000 Z
+- name: laravel-mix
+  description: A framework for web artisans.
+  website_url: https://laravel.com/docs/5.5/mix
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/7945/h7umz7fz_normal.jpg
+  detection_source_url: https://github.com/terasa/laravel/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: louis de smet
+  last_updated_on: 2017-05-26 11:38:03.000000000 Z
+- name: bootstrap-sass
+  description: Bootstrap-sass is a Sass-powered version of Bootstrap 3
+  package_url: https://www.npmjs.com/bootstrap-sass
+  version: 3.3.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16915/default_e65289f03a07faa8d49ce16c483f18c4f8a98db9.png
+  detection_source_url: https://github.com/terasa/laravel/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: louis de smet
+  last_updated_on: 2017-05-26 11:38:03.000000000 Z
+  vulnerabilities:
+  - name: Bootstrap Vulnerable to Cross-Site Scripting
+    cve_id: CVE-2019-8331
+    cve_url: https://github.com/advisories/GHSA-9v3m-8fp8-mj99
+    detected_date: Feb 23
+    severity: moderate
+    first_patched: 3.4.1
+  - name: Moderate severity vulnerability that affects bootstrap and bootstrap-sass
+    cve_id: CVE-2019-8331
+    cve_url: https://github.com/advisories/GHSA-wh77-3x4m-4q9g
+    detected_date: Jan 28
+    severity: moderate
+    first_patched: 3.4.1
+- name: cross-env
+  description: Run scripts that set and use environment variables across platforms
+  package_url: https://www.npmjs.com/cross-env
+  version: 3.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/terasa/laravel/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: louis de smet
+  last_updated_on: 2017-05-26 11:38:03.000000000 Z
+- name: laravel-mix
+  description: Laravel Mix is an elegant wrapper around Webpack for the 80% use case
+  package_url: https://www.npmjs.com/laravel-mix
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17350/default_33c3173e7d0e91f7cea0eab9883ca83b157bd4a5.png
+  detection_source_url: https://github.com/terasa/laravel/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: louis de smet
+  last_updated_on: 2017-05-26 11:38:03.000000000 Z
+- name: vue
+  description: Vue
+  package_url: https://www.npmjs.com/vue
+  version: 2.1.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15844/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/terasa/laravel/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: louis de smet
+  last_updated_on: 2017-05-26 11:38:03.000000000 Z
